@@ -1,0 +1,12 @@
+
+#container {
+  width:30vw;
+  background-color: red;
+  
+}
+#box {
+  width: 50vw;
+  height: 50hw;
+  color: aquamarine;
+  border: solid black 2px;
+}
